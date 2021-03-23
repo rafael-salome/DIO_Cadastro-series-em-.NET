@@ -1,0 +1,16 @@
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\PUC_Minas\3_Digital Innovation\Projetos_DIO\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
